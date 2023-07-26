@@ -1,10 +1,20 @@
 # Speech Language Modeling Papers
-A collection of papers related to speech language models. Please feel free to suggest more!
+A collection of papers (or other resources) related to speech language models. Please feel free to suggest more!
+
+## Resources
+
+- Blog posts from Dr. [Hongyu Gong](https://hongyugong.github.io/)
+  - [Voice Synthesis](https://hongyugong.github.io/posts/2023/07/blog-post-0/)
+  - [Speech Language Models](https://hongyugong.github.io/posts/2023/07/blog-post-1/)
+  - [Speech Tokenizers](https://hongyugong.github.io/posts/2023/07/blog-post-2/)
+
+
+## Papers
 
 TODO:
 AudioLM, AudioPaLM, PolyVoice, TWIST, Make-A-Voice, SoundStorm, MusicGen, Voicebox, etc
 
-# 2023
+### 2023
 
 - [[arXiv](https://arxiv.org/abs/2307.11795)] Prompting Large Language Models with Speech Recognition Abilities
 - [[arXiv](https://arxiv.org/abs/2305.16107)] VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
@@ -14,10 +24,10 @@ AudioLM, AudioPaLM, PolyVoice, TWIST, Make-A-Voice, SoundStorm, MusicGen, Voiceb
 - [[ICASSP](https://ieeexplore.ieee.org/document/10095710)] [[arXiv](https://arxiv.org/abs/2212.04559)] SpeechLMScore: Evaluating Speech Generation Using Speech Language Model
 
 
-# 2022
+### 2022
 
 - [[ACL](https://aclanthology.org/2022.acl-long.593/)] [[demo](https://speechbot.github.io/pgslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/blob/main/examples/textless_nlp/pgslm/)] pGSLM: Text-Free Prosody-Aware Generative Spoken Language Modeling
 
-# 2021
+### 2021
 
 - [[TACL](https://aclanthology.org/2021.tacl-1.79/)] [[demo](https://speechbot.github.io/gslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/gslm)] GSLM: On Generative Spoken Language Modeling from Raw Audio
