@@ -1,4 +1,4 @@
-# speech-language-model
+# Speech Language Modeling Papers
 A collection of papers related to speech language models. Please feel free to suggest more!
 
 TODO:
