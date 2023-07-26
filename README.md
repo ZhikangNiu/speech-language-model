@@ -2,7 +2,7 @@
 A collection of papers related to speech language models. Please feel free to suggest more!
 
 TODO:
-AudioLM, AudioPaLM, PolyVoice, Make-A-Voice, SoundStorm, etc
+AudioLM, AudioPaLM, PolyVoice, Make-A-Voice, SoundStorm, MusicGen, Voicebox, etc
 
 # 2023
 
