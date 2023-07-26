@@ -11,6 +11,7 @@ AudioLM, AudioPaLM, PolyVoice, TWIST, Make-A-Voice, SoundStorm, MusicGen, Voiceb
 - [[arXiv](https://arxiv.org/abs/2301.02111)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/)] VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
 - [[TACL](https://aclanthology.org/2023.tacl-1.15/)] [[demo](https://speechbot.github.io/dgslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/blob/main/examples/textless_nlp/dgslm)] dGSLM: Generative Spoken Dialogue Language Modeling
 - [[ICASSP](https://ieeexplore.ieee.org/document/10095710)] [[arXiv](https://arxiv.org/abs/2212.04559)] SpeechLMScore: Evaluating Speech Generation Using Speech Language Model
+- [[arXiv](https://arxiv.org/abs/2307.11795)] Prompting Large Language Models with Speech Recognition Abilities
 
 
 # 2022
