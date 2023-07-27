@@ -19,7 +19,7 @@ This repository is a collection of papers and learning resources related to spee
 ## Papers
 
 ### 2023
-
+- [[arXiv](https://arxiv.org/abs/2306.02207)] [[demo](https://ga642381.github.io/SpeechPrompt/speechgen.html)] SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts
 - [[arXiv](https://arxiv.org/abs/2307.11795)] Prompting Large Language Models with Speech Recognition Abilities
 - [[arXiv](https://arxiv.org/abs/2306.12925)] [[demo](https://google-research.github.io/seanet/audiopalm/examples/)] AudioPaLM: A Large Language Model That Can Speak and Listen
 - [[arXiv](https://arxiv.org/abs/2306.15687)] [[demo](https://voicebox.metademolab.com/#demo)] Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale
