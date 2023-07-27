@@ -25,7 +25,7 @@ A collection of papers (or other resources) related to speech language models. P
 - [[arXiv](https://arxiv.org/abs/2305.16107)] VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation
 - [[arXiv](https://arxiv.org/abs/2303.03926)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-x/)] VALL-E X: Speak Foreign Languages with Your Own Voice: Cross-Lingual Neural Codec Language Modeling
 - [[arXiv](https://arxiv.org/abs/2301.02111)] [[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/)] VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
-- [[arXiv](https://arxiv.org/abs/2302.03540)] SPEAR-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision
+- [[arXiv](https://arxiv.org/abs/2302.03540)] [[demo](https://google-research.github.io/seanet/speartts/examples/)] SPEAR-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision
 - [[arXiv](https://arxiv.org/abs/2301.11325)] [[demo](https://google-research.github.io/seanet/musiclm/examples/)] MusicLM: Generating Music From Text
 - [[TACL](https://aclanthology.org/2023.tacl-1.15/)] [[demo](https://speechbot.github.io/dgslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/blob/main/examples/textless_nlp/dgslm)] dGSLM: Generative Spoken Dialogue Language Modeling
 - [[TASLP](https://ieeexplore.ieee.org/abstract/document/10158503)] [[arXiv](https://arxiv.org/abs/2209.03143)] [[demo](https://google-research.github.io/seanet/audiolm/examples/)] AudioLM: A Language Modeling Approach to Audio Generation
