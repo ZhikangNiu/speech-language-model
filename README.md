@@ -28,9 +28,9 @@ A collection of papers (or other resources) related to speech language models. P
 - [[arXiv](https://arxiv.org/abs/2302.03540)] [[demo](https://google-research.github.io/seanet/speartts/examples/)] SPEAR-TTS: Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision
 - [[arXiv](https://arxiv.org/abs/2301.11325)] [[demo](https://google-research.github.io/seanet/musiclm/examples/)] MusicLM: Generating Music From Text
 - [[ICLR](https://openreview.net/forum?id=CYK7RfcOzQ4)] [[arXiv](https://arxiv.org/abs/2209.15352)] [[demo](https://felixkreuk.github.io/audiogen/)] AudioGen: Textually Guided Audio Generation
+- [[ICASSP](https://ieeexplore.ieee.org/document/10095710)] [[arXiv](https://arxiv.org/abs/2212.04559)] SpeechLMScore: Evaluating Speech Generation Using Speech Language Model
 - [[TACL](https://aclanthology.org/2023.tacl-1.15/)] [[demo](https://speechbot.github.io/dgslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/blob/main/examples/textless_nlp/dgslm)] dGSLM: Generative Spoken Dialogue Language Modeling
 - [[TASLP](https://ieeexplore.ieee.org/abstract/document/10158503)] [[arXiv](https://arxiv.org/abs/2209.03143)] [[demo](https://google-research.github.io/seanet/audiolm/examples/)] AudioLM: A Language Modeling Approach to Audio Generation
-- [[ICASSP](https://ieeexplore.ieee.org/document/10095710)] [[arXiv](https://arxiv.org/abs/2212.04559)] SpeechLMScore: Evaluating Speech Generation Using Speech Language Model
 
 
 ### 2022
