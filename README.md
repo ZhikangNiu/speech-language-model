@@ -8,13 +8,6 @@
 This repository is a collection of papers and learning resources related to speech language models. Please feel free to suggest more!
 
 
-## Contributors
-
-<a href="https://github.com/pyf98/speech-language-model/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=pyf98/speech-language-model" />
-</a>
-
-
 ## Learning resources
 
 - Blog posts from Dr. [Hongyu Gong](https://hongyugong.github.io/)
