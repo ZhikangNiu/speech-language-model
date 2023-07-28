@@ -20,6 +20,7 @@ This repository is a collection of papers and learning resources related to spee
 
 ### 2023
 - [[arXiv](https://arxiv.org/abs/2306.02207)] [[demo](https://ga642381.github.io/SpeechPrompt/speechgen.html)] SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts
+- [[arXiv](https://arxiv.org/abs/2303.00733)] [[code](https://github.com/ga642381/SpeechPrompt-v2)] SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks
 - [[arXiv](https://arxiv.org/abs/2307.11795)] Prompting Large Language Models with Speech Recognition Abilities
 - [[arXiv](https://arxiv.org/abs/2306.12925)] [[demo](https://google-research.github.io/seanet/audiopalm/examples/)] AudioPaLM: A Large Language Model That Can Speak and Listen
 - [[arXiv](https://arxiv.org/abs/2306.15687)] [[demo](https://voicebox.metademolab.com/#demo)] Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale
@@ -41,7 +42,7 @@ This repository is a collection of papers and learning resources related to spee
 
 
 ### 2022
-
+- [[Interspeech](https://www.isca-speech.org/archive/interspeech_2022/chang22e_interspeech.html)][[arXiv](https://arxiv.org/abs/2203.16773)][[code](https://github.com/ga642381/SpeechPrompt)] SpeechPrompt: An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks
 - [[ACL](https://aclanthology.org/2022.acl-long.593/)] [[demo](https://speechbot.github.io/pgslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/blob/main/examples/textless_nlp/pgslm/)] pGSLM: Text-Free Prosody-Aware Generative Spoken Language Modeling
 
 ### 2021
