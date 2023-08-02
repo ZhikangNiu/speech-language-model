@@ -48,3 +48,7 @@ This repository is a collection of papers and learning resources related to spee
 ### 2021
 
 - [[TACL](https://aclanthology.org/2021.tacl-1.79/)] [[demo](https://speechbot.github.io/gslm/index.html)] [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/gslm)] GSLM: On Generative Spoken Language Modeling from Raw Audio
+
+### 2020
+
+- [[arXiv](https://arxiv.org/abs/2005.05525)] [[demo](https://kan-bayashi.github.io/DiscreTalk/)] DiscreTalk: Text-to-Speech as a Machine Translation Problem
