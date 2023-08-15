@@ -19,6 +19,7 @@ This repository is a collection of papers and learning resources related to spee
 ## Papers
 
 ### 2023
+- [[arXiv](https://arxiv.org/abs/2308.06873)] [[demo](https://www.microsoft.com/en-us/research/project/speechx/)] SpeechX: Neural Codec Language Model as a Versatile Speech Transformer
 - [[arXiv](https://arxiv.org/abs/2306.02207)] [[demo](https://ga642381.github.io/SpeechPrompt/speechgen.html)] SpeechGen: Unlocking the Generative Power of Speech Language Models with Prompts
 - [[arXiv](https://arxiv.org/abs/2303.00733)] [[code](https://github.com/ga642381/SpeechPrompt-v2)] SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks
 - [[arXiv](https://arxiv.org/abs/2307.11795)] Prompting Large Language Models with Speech Recognition Abilities
